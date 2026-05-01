@@ -52,7 +52,7 @@ It is the "model-training + kernel-roofline" notebook for the Pallas path.
 ## Repository Layout
 
 - `utils/` - plotting, roofline, and timing helper utilities.
-- `results/` - benchmark figures (`triton_attn/` has forward/backward/roofline PNGs from the Triton notebook).
+- `results/` - generated benchmark figures and roofline plots.
 
 ## Quick Start
 
